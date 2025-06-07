@@ -1,4 +1,4 @@
-/ In-memory data store for development
+// In-memory data store for development
 const dataStore = {
  videos: [],
  users: [],
